@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=miya10kei)](https://github.com/miya10kei)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/miya10kei)](https://twitter.com/miya10kei)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/miya10kei/posts.svg)](http://qiita.com/miya10kei)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/miya10kei/contributions.svg)](http://qiita.com/miya10kei)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/miya10kei/followers.svg)](http://qiita.com/miya10kei)
+
 <!--
 **miya10kei/miya10kei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
